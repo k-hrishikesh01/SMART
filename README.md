@@ -132,9 +132,9 @@ MIT
 
 ## 🔐 Security Architecture
 
-A detailed security architecture, threat model, and integrity analysis of the system is documented in:
+A comprehensive security architecture, threat model, and integrity analysis of the system is documented here:
 
-docs/SECURITY_ANALYSIS.md
+[Security Architecture & Threat Analysis](docs/SECURITY_ANALYSIS.md)
 
 This includes:
 - Token lifecycle analysis
