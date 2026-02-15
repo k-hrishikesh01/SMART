@@ -129,3 +129,17 @@ Built for VTU college demo — [BHUVI2192](https://github.com/BHUVI2192)
 ## 📄 License
 
 MIT
+
+## 🔐 Security Architecture
+
+A detailed security architecture, threat model, and integrity analysis of the system is documented in:
+
+docs/SECURITY_ANALYSIS.md
+
+This includes:
+- Token lifecycle analysis
+- API vs Offline mode security comparison
+- GPS validation model
+- Duplicate prevention mechanisms
+- Attack surface assessment
+- Residual risk evaluation
